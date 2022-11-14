@@ -1,0 +1,15 @@
+.button_design:hover{
+    font-size: 15px;
+    font-weight:00;
+    text-decoration: underline;
+    text-decoration-color:red
+    
+    
+}
+
+.All_tabs_section{
+    display:flex;
+    justify-content: space-between;
+    width:90vw;
+    text-align: center;
+}
